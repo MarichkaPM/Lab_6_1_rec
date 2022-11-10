@@ -1,0 +1,4 @@
+﻿  UnitTest_for_6_1rec.cpp
+C:\Users\Admin\Desktop\MARICHKA\АП\Laboratorna 6_1_rec\Laboratorna 6_1_rec\Lab 6_1.cpp(18,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Admin\Desktop\MARICHKA\АП\Laboratorna 6_1_rec\Laboratorna 6_1_rec\Lab 6_1.cpp(80): warning C4715: 'Count': not all control paths return a value
+  UnitTest_for_6_1rec.vcxproj -> C:\Users\Admin\Desktop\MARICHKA\АП\Laboratorna 6_1_rec\x64\Debug\UnitTest_for_6_1rec.dll
